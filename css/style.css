@@ -283,10 +283,18 @@ header{
     padding-bottom: 90px;
 }
 
+.wrapper {
+	display: none;
+}
+
 .dont{
     width: 70%;
     margin-left: 15%;
     padding-top: 1.5em;
+}
+
+.cont {
+	display: none;
 }
 
 .big-title {
