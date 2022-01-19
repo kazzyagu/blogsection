@@ -274,7 +274,7 @@ header{
 
 /*------------------------ 2 Home Page ------------------------*/
 
-.wrapper{
+.drapper{
     position: relative;
     z-index: 1;
     background: #fff;
@@ -283,7 +283,7 @@ header{
     padding-bottom: 90px;
 }
 
-.cont{
+.dont{
     width: 70%;
     margin-left: 15%;
     padding-top: 1.5em;
